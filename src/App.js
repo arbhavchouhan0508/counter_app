@@ -16,6 +16,15 @@ function App() {
     setCount(0);
   }
   function hi(){
+
+  } 
+  function h2(){
+
+  }
+  function h3(){
+
+  }
+  function h4(){
     
   }
 
